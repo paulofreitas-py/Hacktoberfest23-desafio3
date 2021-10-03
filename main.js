@@ -4,8 +4,8 @@ $('.glitch-img').mgGlitch({
 	scale: true,
 	blend: true,
 	blendModeType: 'hue',
-	glitch1TimeMin: 700,
-	glitch1TimeMax: 700,
-	glitch2TimeMin: 100,
-	glitch2TimeMax: 500,
+	glitch1TimeMin: 200,
+	glitch1TimeMax: 400,
+	glitch2TimeMin: 10,
+	glitch2TimeMax: 100,
 });
